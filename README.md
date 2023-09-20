@@ -1,0 +1,3 @@
+# SmolBoi Radio Telescope
+
+Stub.
